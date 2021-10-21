@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, nice to see you 👋
 
-<!--
-**OlenaSavchenko/OlenaSavchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elena, a Junior Front-end developer ✌️ from Ukraine 💛💙 .
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a lot of different stuff
+- 🌱 I’m currently learning everything...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-olenasjs@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:olenasjs@gmail.com)](mailto:olenasjs@gmail.com) 
+
+## Some of my Github Stats
+
+<p align=left> <img src=![](https://komarev.com/ghpvc/?username=OlenaSavchenko&style=plastic) alt=OlenaSavchenko/> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=OlenaSavchenko&show_icons=true&include_all_commits=true)](https://github.com/OlenaSavchenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlenaSavchenko&layout=compact)](https://github.com/OlenaSavchenko/github-readme-stats)
+
