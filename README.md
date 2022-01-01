@@ -2,7 +2,6 @@
 
 I'm Elena, a Junior Front-end developer ✌️ from Ukraine 💛💙 .
 
-Open to work!😇
 
 [![Gmail Badge](https://img.shields.io/badge/-olenasjs@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:olenasjs@gmail.com)](mailto:olenasjs@gmail.com) 
 
