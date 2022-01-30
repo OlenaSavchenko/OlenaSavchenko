@@ -1,9 +1,11 @@
 ### Hi there, nice to see you 👋
 
-I'm Elena, a Junior Front-end developer ✌️ from Ukraine 💛💙 .
+I'm Elena, a Junior Front-end developer 💛💙 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-olenasjs@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:olenasjs@gmail.com)](mailto:olenasjs@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-olsavchenko1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:olenasjs@gmail.com)](mailto:olsavchenko1@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/olena-savchenko/) 
+
 
 ## Some of my Github Stats
 
