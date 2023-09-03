@@ -1,6 +1,6 @@
-### Hi there, nice to see you 👋
+### Hi👋
 
-I'm Elena, a Junior Front-end developer 💛💙 
+I'm Olena, a Front-end developer 💛💙 
 
 
 [![Gmail Badge](https://img.shields.io/badge/-olsavchenko1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:olenasjs@gmail.com)](mailto:olsavchenko1@gmail.com)
